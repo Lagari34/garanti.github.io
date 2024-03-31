@@ -1,1 +1,1 @@
-# garanti.github.io
+# garanti.git
